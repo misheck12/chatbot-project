@@ -1,0 +1,4 @@
+Flask==2.1.1
+ChatterBot==1.0.5
+ChatterBotCorpus==1.2.3
+requests==2.26.0
